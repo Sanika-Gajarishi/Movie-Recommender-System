@@ -1,4 +1,17 @@
-.env
+# Environment
+.venv/
+
+# Python
 __pycache__/
 *.pyc
-.venv/
+
+# Environment variables
+.env
+.streamlit/secrets.toml
+
+# Datasets
+data/raw/
+data/processed/
+
+# Generated ML models
+models/*.pkl
