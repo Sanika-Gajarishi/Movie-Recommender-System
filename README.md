@@ -248,7 +248,7 @@ The application follows a simple layered architecture:
 1. Clone the repository
 
 ```
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/Sanika-Gajarishi/Movie-Recommender-System>
 ```
 
 Move into the project:
